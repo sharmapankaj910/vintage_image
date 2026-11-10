@@ -5,7 +5,7 @@ package.domain = org.offline.retrolens
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,tflite
 version = 1.0.0
-requirements = python3==3.11.5,kivy==2.3.0,kivymd==1.2.0,pillow,numpy==1.24.3,plyer,requests,urllib3,certifi,chardet,idna
+requirements = python3==3.11,kivy==2.3.0,kivymd==1.2.0,pillow,numpy==1.24.3,plyer,requests
 android.permissions = READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET
 android.api = 33
 android.minapi = 24
