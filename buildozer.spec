@@ -1,4 +1,4 @@
-﻿[app]
+[app]
 title = RetroLens CNN
 package.name = retrolens
 package.domain = org.offline.retrolens
